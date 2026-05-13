@@ -1,4 +1,4 @@
-# Designing Data Architecture for Global EdTech
+![Logo](Navy And White Geometric Technology LinkedIn Banner (3168 x 792 px)-2.jpg)# Designing Data Architecture for Global EdTech
 
 ## Project Overview
 
