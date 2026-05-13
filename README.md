@@ -1,4 +1,4 @@
-Logo.png
+![Logo](logo.jpg)
 ## Project Overview
 
 This project explores how integrated data architecture and business intelligence systems can support strategic decision-making in global edTech environments.
